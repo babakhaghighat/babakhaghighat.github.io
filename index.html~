@@ -3,19 +3,19 @@
   <head>
     <link rel="shortcut icon" href="../pics/YMSC-Logo.jpg">
     <link rel="stylesheet" href="../main.css">
-  	<title>Babak Haghighat's Personal Page</title>
+  	<title>Wenbin Yan's Personal Page</title>
   </head>
   
   <body>
   
   <div id="container">
   	<h1>
-  	  Babak Haghighat
+  	  颜文斌 (Wenbin Yan)
   	  <!-- <a href="http://www.tsinghua.edu.cn" target="_blank">
         <img src="../pics/Tsinghua_University_Logo.svg" height="60" width="60" alt="Tsinghua Icon">
       </a> -->
       <a href="http://ymsc.tsinghua.edu.cn" target="_blank">
-        <img src="babak/ymsc-logo.jpg" height="60" width="204" align="top" alt="YMSC LOGO">
+        <img src="wenbin/ymsc-logo.jpg" height="60" width="204" align="top" alt="YMSC LOGO">
       </a>
   	</h1>
   	
@@ -47,18 +47,18 @@
   	    <table>
   	      <tr>
   	        <td width="220">
-  	        <img width="200" height="200" src="babak/profile-photo.jpg">
+  	        <img width="200" height="200" src="wenbin/profile-photo.jpg">
   	        </td>
   	        
   	        <td>
   	          <p>
-  	            <strong>Babak Haghighat</strong><br>
+  	            <strong>Wenbin Yan</strong><br>
   	            Assistant Professor<br>
   	            <a href="http://ymsc.tsinghua.edu.cn" target="_blank">Yau Mathematical Science Center</a><br>
-  	            253 JinChunYuan West Building,<br>
+  	            142 JinChunYuan West Building,<br>
   	            Tsinghua University,<br>
   	            Haidian District, Beijing 100084, China<br>
-  	            E-mail: babakhaghighat (at) mail (dot) tsinghua (dot) edu (dot) cn
+  	            E-mail: wbyan (at) mail (dot) tsinghua (dot) edu (dot) cn
   	          </p>
   	        </td>
   	      </tr>
