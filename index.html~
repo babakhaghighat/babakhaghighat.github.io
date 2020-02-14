@@ -92,7 +92,7 @@
 		  <img src="babak/jin.jpg" alt="Jin">
 		</td>
 		<td class="cellMemberName">Jin Chen</td>
-		<td class="cellMemberPhone">+86</td>
+		<td class="cellMemberPhone">+8662793395</td>
 		<td class="cellMemberMail"><a href="mailto:zenofox@gmail.com">email</a></td>
 	      </tr>
 	      <tr><td class="cellMemberNotes" colspan="3"></td></tr>
@@ -105,8 +105,58 @@
 		<td class="cellMemberMail"><a href="mailto:marcus.sperling@univie.ac.at">email</a></td>
 	      </tr>
 	      <tr><td class="cellMemberNotes" colspan="3"></td></tr>
+	      <tr>
+                <td class="cellMemberPhoto" rowspan="2">
+                  <img src="babak/rui.jpg" alt="Rui">
+                </td>
+                <td class="cellMemberName">Rui Sun</td>
+                <td class="cellMemberPhone">+8662770087</td>
+                <td class="cellMemberMail"><a href="mailto:rsun@tsinghua.edu.cn">email</a></td>
+              </tr>
+              <tr><td class="cellMemberNotes" colspan="3"></td></tr>
+	      <tr>
+                <td class="cellMemberPhoto" rowspan="2">
+                  <img src="babak/shuhang.jpg" alt="Shuhang">
+                </td>
+		<td class="cellMemberName">Shuhang Yang</td>
+                <td class="cellMemberPhone">+86</td>
+                <td class="cellMemberMail"><a href="mailto:yangsh03@gmail.com">email</a></td>
+              </tr>
+              <tr><td class="cellMemberNotes" colspan="3"></td></tr>
 	    </table>
-	    <hr>
+	    <h4>PhD Stutents</h4>
+	    <table class="memberTable">
+	      <tr>
+                <td class="cellMemberPhoto" rowspan="2">
+                  <img src="babak/xia.jpg" alt="Xia">
+                </td>
+		<td class="cellMemberName">Xia Gu</td>
+                <td class="cellMemberPhone">+86</td>
+                <td class="cellMemberMail"><a href="mailto:gux19@mails.tsinghua.edu.cn">email</a></td>
+              </tr>
+              <tr><td class="cellMemberNotes" colspan="3"></td></tr>
+              <tr>
+                <td class="cellMemberPhoto" rowspan="2">
+                  <img src="babak/yihua.jpg" alt="Yihua">
+                </td>
+                <td class="cellMemberName">Yihua Liu</td>
+                <td class="cellMemberPhone">+86</td>
+                <td class="cellMemberMail"><a href="mailto:liuyh19@mails.tsinghua.edu.cn">email</a></td>
+              </tr>
+              <tr><td class="cellMemberNotes" colspan="3"></td></tr>
+	    </table>
+	    <h4>Undergraduate</h4>
+	    <table class="memberTable">
+              <tr>
+                <td class="cellMemberPhoto" rowspan="2">
+                  <img src="babak/youran.jpg" alt="Youran">
+                </td>
+                <td class="cellMemberName">Youran Sun</td>
+                <td class="cellMemberPhone">+86</td>
+                <td class="cellMemberMail"><a href="mailto:gux19@syouran0508@gmail.com">email</a></td>
+              </tr>
+              <tr><td class="cellMemberNotes" colspan="3"></td></tr>
+	    </table>
 	  </div>
    	  <div id="teaching">
   	    <h3>Teaching
