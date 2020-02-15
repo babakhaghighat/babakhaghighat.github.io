@@ -101,7 +101,7 @@
 		  <img src="babak/marcus.jpg" alt="Marcus">
 		</td>
 		<td class="cellMemberName">Marcus Sperling</td>
-		<td class="cellMemberPhone">+86</td>
+		<td class="cellMemberPhone"></td>
 		<td class="cellMemberMail"><a href="mailto:marcus.sperling@univie.ac.at">email</a></td>
 	      </tr>
 	      <tr><td class="cellMemberNotes" colspan="3"></td></tr>
@@ -119,7 +119,7 @@
                   <img src="babak/shuhang.jpg" alt="Shuhang">
                 </td>
 		<td class="cellMemberName">Shuhang Yang</td>
-                <td class="cellMemberPhone">+86</td>
+                <td class="cellMemberPhone"></td>
                 <td class="cellMemberMail"><a href="mailto:yangsh03@gmail.com">email</a></td>
               </tr>
               <tr><td class="cellMemberNotes" colspan="3"></td></tr>
@@ -131,7 +131,7 @@
                   <img src="babak/xia.jpg" alt="Xia">
                 </td>
 		<td class="cellMemberName">Xia Gu</td>
-                <td class="cellMemberPhone">+86</td>
+                <td class="cellMemberPhone"></td>
                 <td class="cellMemberMail"><a href="mailto:gux19@mails.tsinghua.edu.cn">email</a></td>
               </tr>
               <tr><td class="cellMemberNotes" colspan="3"></td></tr>
@@ -140,7 +140,7 @@
                   <img src="babak/yihua.jpg" alt="Yihua">
                 </td>
                 <td class="cellMemberName">Yihua Liu</td>
-                <td class="cellMemberPhone">+86</td>
+                <td class="cellMemberPhone"></td>
                 <td class="cellMemberMail"><a href="mailto:liuyh19@mails.tsinghua.edu.cn">email</a></td>
               </tr>
               <tr><td class="cellMemberNotes" colspan="3"></td></tr>
@@ -152,7 +152,7 @@
                   <img src="babak/youran.jpg" alt="Youran">
                 </td>
                 <td class="cellMemberName">Youran Sun</td>
-                <td class="cellMemberPhone">+86</td>
+                <td class="cellMemberPhone"></td>
                 <td class="cellMemberMail"><a href="mailto:gux19@syouran0508@gmail.com">email</a></td>
               </tr>
               <tr><td class="cellMemberNotes" colspan="3"></td></tr>
